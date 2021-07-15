@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ItsmeSauravSonu/Single-Price-Grid-challenge)
-- Live Site URL: [Netlify](https://single-grid-frontendmentor-challenge.netlify.app/)
+- Live Site URL: [Github pages](https://itsmesauravsonu.github.io/Donation-page_payment_gateway/)
 
 ## My process
 
