@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/ItsmeSauravSonu/Single-Price-Grid-challenge)
+- Solution URL: [Github](https://github.com/ItsmeSauravSonu/Donation-page_payment_gateway)
 - Live Site URL: [Github pages](https://itsmesauravsonu.github.io/Donation-page_payment_gateway/)
 
 ## My process
